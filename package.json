@@ -1,0 +1,20 @@
+{
+  "name": "spotify-comparator",
+  "version": "1.0.0",
+  "description": "An app to display and analyze spotify statistics for a user",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aaron Jordan",
+  "license": "ISC",
+  "repository": "",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.4",
+    "dotenv": "^8.2.0",
+    "express": "~4.16.0",
+    "querystring": "~0.2.0"
+  }
+}
